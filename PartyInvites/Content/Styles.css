@@ -1,0 +1,18 @@
+﻿.field-validaton-error {
+    color: #f00;
+}
+.field-validaton-valid {
+    display: none;
+}
+.input-validaton-error {
+    border: 1px solid #f00; 
+    background-color: #fee;
+}
+.validaton-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+
+
+
